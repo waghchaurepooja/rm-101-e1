@@ -1,11 +1,9 @@
 
 .tasks {
   /* sample */
-
-  border : 1px solid;
-  display: flex;
+display: flex;
   flex-direction: column;
-  gap: .4vw;
+  gap: 10px;
 }
 
 .empty {
